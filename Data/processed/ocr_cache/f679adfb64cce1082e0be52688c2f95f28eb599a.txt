@@ -1,0 +1,263 @@
+Tol:11-Apr-2017
+Al's next leap: When' machines stop
+SOFINDIA
+9 SEP 2026
+just answering and start doing
+Smarter models are
+For those who have just gotten access to an Al
+would come up,"he says."It just felt
+giving Al the ability
+model like Astra,Iwouldexperiment with end-to-
+PEOPLE
+likedoingpatchwork overandover"
+endtasks tounlock real productivitygains,focusingon
+EIGCER
+SohegavetheproblemtoAstra.
+execution ratherthan isolatedprompts.High-
+to plan, act and
+"Honestly, I was quite surprised,"
+impactworkflows includemarket research,data
+he says.
+analysis,softwaredevelopment,data
+complete work,
+The model reduced what Ram-
+reconciliation and cross-app automation. The
+akrishnandescribesasunnecessary
+changing what one
+key is totesthowwell Al cantakeataskfrom
+complexity in the system and, more
+the beginning to a finished result,ratherthan
+importantly,appearedtounderstand
+simplygeneratingananswer."
+person can do
+what he was actually trying to
+Saravanan(Saran)Balasundaram|FOUNDER&
+achieveratherthansimplyfixingone
+GROUP CEO, HAN DIGITAL
+error at atime.
+Akhil.George@timesoflndia.com
+"Itwas abletounderstand the
+OpenAl's newmodel is a significant leap.They are
+broad intent behind whatI wastrying
+alsoscoringthehighestonARCtests,way
+few days ago, Nvidia CEO
+to bring in," he says. The resulting
+more than any other models. Multi-step, multi-tool
+Previous generations were already useful for
+Jensen Huang said the re-
+systemwasmorerobust,headds,
+interactions over long time frames mean themodel can,
+reasoning,writing,summarising,codingand
+lease of OpenAI's new GPT-
+with fewer moving parts and less
+theory,executemorecomplextasks,keepmultiple
+in
+answeringquestions.Butmostreal workdoes not
+6 Astra marked the moment
+happen in a single prompt. It involves moving
+needforrepeatedfixes.
+open threads orfactors in mind,and deliveran
+artificial general intelli-
+Anotherexperienceleft aneven
+across systems,gathering context,using tools,
+outcomethatwouldnothavebeenpossible
+gence, or AGI, had arrived. The claim
+stronger impression.
+before.For example,a user can say,"Check my
+checking results along the way,correcting
+set off afamiliar debate over whether
+SouthArc is also helping a small
+mistakes and still staying focused on the
+emails,WhatsApp,andopenbillstotellme
+Al has really crossed that line.
+media company in theUs build an
+original goal.Astra appears to be getting
+what subscriptions to cancel,"and the model is
+But there is a more practicalrea-
+better at handling that entire sequence,
+app.Part of the work involved anima-
+capable of it now.
+sonthelatestgeneration of AImat-
+whichmakes itmuchmoreuseful for
+tions that would normally need a
+Rajeev Ved| CHIEF GROWTH & AI OFFICER,
+ters. The big change is not simply
+designer to create files which could
+actual work.
+SASKEN
+that models can answer harder
+then be used by developers.
+Shubham Jindal|DIRECTOR OF AI,HARNESS
+questions. It is that they are getting
+Ramakrishnan instead got the AIto
+The most interesting leap isthe combination of
+better at taking a job, figuring out
+create the animations directly in code.
+During early testing on Financial Services documents,
+capabilities.Understandinganunfamiliarproblem,
+the steps involved, using software
+GPT-6Astra did morethan summarizethedocuments.
+"It was able to write the entire
+working with the availabletools,checking theresult and
+and tools,checkingwhattheyhave
+It distinguishedassumptionsfromfacts,detected
+animations from scratch," he says.
+adapting when therequirement changesareall parts
+done and carrying the task much
+assumptionsthatlackedevidentiarysupport,and
+Theworkinvolvedthousandsof lines
+of getting real work done. Astra brings those
+further on their own.
+convertedthosegaps into specific positions or
+of coordinates describing how ob-
+abilities together in a way that makes the range
+"We are moving from 'ask'the Al
+qualifications in the resulting draft. This last part
+jectsshouldmove,and themodel was
+ofpossibleapplicationsfeelmuchbroader.For
+to ‘task'the AI," says Jaspreet Bindra,
+is commendable,and a massive improvement!
+abletoputthepieces together and
+me, this is an early glimpse of what AGl could
+co-founder of AI&Beyond.
+Astra approached the work the way a discerning
+testthem.
+mean insideabusiness:intelligencethat can
+That distinction could have a pro
+financial analyst does'There's stillsome distance
+"That was whenI was a little
+apply itself across different kinds of work
+found impact on how companies
+to go, but this seems like a milestone.
+blown away" he says.
+and deal with situations we have not
+work. Instead of measuring AI by the
+Jayaprakash NairI GLOBAL HEAD, DATA & AI
+At Cars24, Astra is al-
+scripted in advance.
+qualityof aresponse,businesses can
+LAB AND CAPABILITY CENTRE, ALTIMETRIK
+readybeingtested onsoft-
+increasingly ask a more useful ques-
+Jayesh Gupta| HEAD OF Al, CARS24
+ware development and
+tion: how much of a real-world task
+Real work, Jindal points out, rare-
+internal tool-building
+thisjob?'butratherHowmuchwork
+tomers, tracks those cylinders
+canthemachinecomplete?
+ly consists of one neat question fol-
+through Codex.Jayesh
+can a singlepersonmanageand co-
+through software and needs to keep
+"The biggest shift is not just
+Gupta, head of AIat Cars24,
+lowedbyoneneatanswerAperson
+ordinate?"" says Saravanan Bal.
+tabsonhowefficientlytheassetsare
+says
+stronger answers, but reliable agency
+may have togather informationfrom
+asundaram, founder and group CEO
+the model is being used on real pro-
+being used.
+acrossreasoning,browsing,software
+jects where requirements are often
+several places, check it, move between
+of Han Digital.
+The company already had soft-
+and office work," Bindra says.
+incompleteandseveral systemshave
+applications, correct mistakes and
+waretotrackthecylinders,butitwas
+towork together."My early impres-
+make sure the final result is right.
+What Al power users think
+difficulttopull together all the infor-
+Fromgiving advice todoing the job
+sion is that Astra represents a sub-
+"For users,this makes delegation
+Perhaps the clearest example comes
+mation needed by the business.Sou-
+Take software development.Earlier
+stantial leapinhowmuchof that
+morepractical,"he says.Instead of
+from Bangalore-based SouthArc
+thArc built a system that combined
+complexity we can delegate," he says.
+Al tools could explain why a pro-
+simply asking AI to explain an error
+Digital,a small automation company
+datafrom its asset-tracking and ac
+gramme had failed or suggest a fix.
+Gupta says the model is helping the
+or prepare a document, users can ask
+run, for the most part, by one person.
+counting software,calculated how
+Increasingly capable systems can
+team tacklemore of the work involved
+it to gather the context, work through
+Vignesh Ramakrishnan, who
+quickly cylinders were being re-
+in building and fixing software -un-
+inspect the error, look through the
+the surrounding steps, check the re-
+foundedSouthArclessthantwoyears
+turned and added other small auto-
+derstanding an unfamiliar problem,
+relevant files, check what changed
+sult and return with a summary of
+ago, is a lawyer by training. After
+mations,including WhatsApp-based
+working with existing tools, checking
+recentlyruntestsandcomeback
+what it did.
+working at a lawfirm and then at ITC,
+queriesandpaymentreminders.
+the result and adapting when require-
+with a working solution.
+The significance extends beyond
+he decided to build a business helping
+It was while working on this sys-
+ments change. "The most interesting
+That is what makes the shift im-
+software.It could mean AI handling
+small and medium companies auto-
+temthatRamakrishnandecidedto
+leap is the combination of capabili-
+portant to businesses, says Shubham
+tasks such as reconciling figures in
+matetheeverydayworkthatfallsbe-
+handaparticularlytroublesomesoft
+ties," he says. "Astra brings those
+Jindal, director of AI at Harness.
+different files, preparing a report
+tweentheirexisting softwaresystems.
+wareproblemtothenewmodel
+abilitiestogether inawaythatmakes
+"The most important leap with
+from raw data, carrying out market
+SouthArc nowworks with around
+Thesystemhadamiddlelayercon
+the range of possible applications feel
+Astra is not just that it is a smarter
+research or moving information be-
+nine clients, including industrial and
+necting two different pieces of soft-
+much broader"
+model, but that it seemsmuch better
+tween applications.
+textilebusinesses.
+ware,andithadbecomeincreasingly
+That may ultimately be the most
+at staying with a task through multi-
+"Value is no longer measured by
+One of those clients is a gas man-
+fragile."One issue would come up,we
+useful way to look at this latest stage
+ple steps," he says.
+‘How many people does it take to do
+ufacturerthat sends cylinders to cus-
+would fix this,and another issue
+of theAlrace.

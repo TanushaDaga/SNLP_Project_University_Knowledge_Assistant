@@ -1,0 +1,53 @@
+SVKM'sNMIMS
+AcademicCalendarfortheAcademicYear:2026-2027
+School Name:Mukesh Patel School of TechnologyManagement&Engineering,Campus:Mumbai,Shirpur
+School of Technology Management & Engineering,Campus:Navi Mumbai,Indore,Chandigarh, Hyderabad
+Program/sName/s inFull:Ph.D.(Engineering),Ph.D.(TechnologyManagement),
+Ph.D (Applied Mathematics)
+Ph.D (Course Work)
+Start Date
+EndDate
+OddSemester/TermI
+July 18, 2026
+Orientation/InductionProgram
+July 18, 2026
+July 18,2026
+CommencementofTerm
+November25,2026
+MidTermTestI
+September 12, 2026
+September19,2026
+MidTermTestII
+October24,2026
+October31,2026
+December3,2026
+TermEndExam
+December24,2026
+January9,2027
+Re-exam
+January16,2027
+November6,2026
+Diwali Vacation
+November12,2026
+EvenSemester/TermII
+January4,2027
+CommencementofTerm
+May5,2027
+February 20,2027
+MidTermTestI
+February 27,2027
+April10,2027
+April 17,2027
+MidTermTestII
+Term End Exam
+May15,2027
+May 29,2027
+Re-exam
+June19,2027
+June 26, 2027
+Winter Vacation
+December26,2026
+January12027
+DeanMPSTME
+*Dates are subjecttochange ifrequired.Please reconfirm thedatesbeforebooking anytickets.
+101

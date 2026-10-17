@@ -1,0 +1,22 @@
+{
+  "a": 0.453362454139838,
+  "b": 1.0252098798889313,
+  "n": 63,
+  "max_version": 2,
+  "holdout": {
+    "n": 16,
+    "answerable_accept_rate": 0.8,
+    "unanswerable_accept_rate": 0.0,
+    "accuracy": 0.875
+  },
+  "n_answerable": 39,
+  "n_unanswerable": 24,
+  "auc": 0.9348290598290597,
+  "threshold": 0.35,
+  "accuracy_at_threshold": 0.8253968253968254,
+  "answerable_accept_rate": 0.9230769230769231,
+  "unanswerable_accept_rate": 0.3333333333333333,
+  "cross_encoder_logit_at_threshold": -3.626787073523279,
+  "feature": "top1_cross_encoder_logit",
+  "fitted_on": "evaluation/calibration_set.json"
+}

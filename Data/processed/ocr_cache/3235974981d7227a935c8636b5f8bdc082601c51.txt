@@ -1,0 +1,63 @@
+AY 2025-26
+SVKM's NMIMS Deemed-to-be University
+Mukesh Patel School of Technology Management and Engineering
+Program: B Tech, MBA Tech (except B Tech CSBS and B Tech CSE (DS)
+Semester:V/VI/IX
+Course:Actuarial Science
+Code:
+Teaching Scheme
+Evaluation Scheme
+Practical
+Tutorial
+Lecture
+Internal Continuous
+(Hours
+(Hours
+Term End Examinations (TEE)
+(Hours per
+Credit
+Assessment (ICA)
+per
+per
+(Marks -100)
+week)
+(Marks - 50)
+week)
+week)
+Marks Scaled to50
+Marks Scaledto50
+Pre-requisite: Calculus, Probability
+Course Objective
+Actuarial science uses mathematics and statistics to assess financial risks and value at risk of financial
+and insurance industry products. It uses certain tools to predict financial implications of a future
+uncertain event. The course introduces the students to this extremely useful life skill paradigm that
+they can utilize in their professional and entrepreneurial endeavors. The course also equips students
+with mathematical and statistical techniques that are of particular relevance to actuarial work. It
+instils knowledge of Insurance Models, pricing and risk.
+Course Outcomes
+After the successful completion of this course, the student will be able to -
+1.Identify the mathematical and statistical techniques used in actuarial science
+2. Apply mathematical techniques used to model and value cash flows that are dependent on
+mortality and morbidity risks
+3. Interpret the results of the linear regression model, generalised linear model and theories on
+interest rates
+4. Analyse data using appropriate statistical analysis and modelling techniques
+Detailed Syllabus
+Unit
+Description
+Duration
+1.
+Probability distributions of random variables
+Discrete distributions: geometric, binomial, hyper geometric, Poisson and uniform on a
+08
+finite set, continuous distributions: normal, lognormal, exponential, gamma, chi-
+square, Bayesian statistics: conditional probability, prior & posterior distribution, loss
+function, estimation of parameters, credible intervals, credibility theory
+2.
+Statistical inference & Regression Analysis
+Estimation and estimators, efficiency, bias, consistency and mean square error,
+08
+model, multiple linear regression model. Generalised linear models: exponential family
+of distributions, estimation of parameters of a generalised linear model, fit a generalised
+linear model to a data set and interpret the output
+Ae

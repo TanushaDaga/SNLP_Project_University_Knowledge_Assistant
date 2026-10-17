@@ -1,0 +1,83 @@
+ g SEP 2026
+Alis chasing its owntail
+as cyberinsecurity rises
+Circular deals for Al infrastructure are legion in this industry, but what about cyber shields
+on offer against risks enabled by AI models? Policy may need to intervene in this new market
+rontier AI companies are racing for
+attacks is clearly welcome. Yet,a paradox stares
+us in the face. As Big AI players rush to deploy
+defences against Agentic AI misuse,
+inviting suspicion ofa new'create-a-
+quicker AI agents endowed with greater
+gap-and-fill-it' business model mis-
+agency, they also enlarge the scope for severe
+inspired by Keynes. Within months of
+digital disruption, which only their tech wiz-
+ardry can resolve. Spillover risks may exist too.
+each other, OpenAI and Anthropic
+Imagine a biotech lab using AI to develop a pro
+released autonomous models of artificial intelli-
+teinwhosebenefitscouldtransformmedicine
+gence (AI) capable of cyber-gap discovery and
+but whose ability to escape, replicate and cause
+exploitation. Then they launched cybersecurity
+harm is scarcely understood; if it goes wrong,
+schemes, offering newly exposed infrastructure
+Plan B might simply be a vaccine for discount
+operators subsidized access to patch-up tech.
+sales to those faced with this new hazard.
+Anthropic unveiled Project Glasswing in April
+ This raises a policy question: should frontier
+alongside Claude Mythos Preview, aimed at
+AI companies bear some liability in case their
+keeping critical-infra software secure.It thus
+agents identify cyber gaps that get exploited
+gave partners like A WS, Apple, Microsoft and
+before defenders can patch them? This could
+Nvidia a head-start in fortifying themselves.
+act as an incentive for Big AI to reach out far and
+Anthropic also committed up to s100 million in
+usage credits and $4 million in cash to open-
+wide with cyber defences, rather than let the
+industry set its own pace. It would be unfair if an
+source security outfits. OpenAl followed with
+Daybreak in May. Its Astra model's big launch
+emerging Al-safety market takes shape as a club
+last week was rolled in with a global initiative
+that shuts out small enterprises and public insti-
+backed by a s1 billion pledge to ease access to its
+tutions with tight budgets. No less importantly,
+defensive tools, training and more.
+antitrust hazards must be kept under watch.
+But this was no altruism. In recent months,
+Users risk getting locked in by vendors if their
+OpenAI models reportedly escaped an internal
+systems depend on particular digital stacks, and
+test lab for a swarm-like attack on Hugging
+signing up for an AI-safety package could plau-
+Face, a gateway to open-weight tools; its Alalso
+sibly do that by raising switching costs. All this
+ hacked a German wiki to make 15,000 sneaky
+action precedes the planned market debuts of
+. edits. Its rival Anthropic's Claude agents are no
+OpenAI and Anthropic, which will place both
+slouches; under test runs, they breached three
+under closer public scrutiny, be it matters of
+companies. In late August, more than 100 orga-
+governance, risk control or global impact. The
+Al'arms race' has already acquired an air of
+nizations-OpenAI, Anthropic, Google and 
+Microsoft among them-signed ajoint letter
+reckless abandon in pursuitof profit and power.
+calling on AI labs to give defenders greater
+Hence, investing in defence makes sense even
+access to advanced tools, funding and training.
+as a hedge against an Al-enabled disaster, one
+One may argue that cybercrime predates Al, but
+that may invite regulatory clamps on this dual-
+AI has made attacks faster, cheaper and poten-
+use technology. Whatever safety deals Big Al
+tially more potent. Hence, any move to equip
+offers, we should be wary of relying on shields
+the world with what it takes to fend off Al-age
+from those making what they're needed for.

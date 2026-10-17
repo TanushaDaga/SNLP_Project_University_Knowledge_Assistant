@@ -1,0 +1,171 @@
+{
+  "query": "How many leaves are permitted for medical reasons",
+  "answer": "The provided documentation does not specify a fixed number of leaves permitted specifically for medical reasons. However, it outlines general attendance and leave constraints:\n\n*   **Maximum Absence Limit:** Students must maintain at least 80% attendance in each subject. Consequently, all leave (regardless of reason, including medical) must remain within a maximum of 20% for each subject.\n*   **Consequences of Exceeding Limit:** If a student's absence exceeds 20%, they do not meet course requirements, and suitable action in accordance with prevailing attendance rules may be taken by the management.\n*   **Admission Deferment:** For serious medical illness, a candidate may apply for admission deferment, which can be approved for a maximum of one year. This is distinct from standard leave during a semester.\n*   **Academic Break:** For serious personal medical reasons involving hospitalization, an academic break may be granted for a maximum period of one year (or up to two years in executive programs), subject to approval by the Dean/Director.",
+  "sources": [
+    {
+      "document": "Student Leave Application.pdf",
+      "snippet": "I undertake to maintain at least 80% attendance in each subject for the Semester. I understand that all Leave must remain within a maximum of 20% for each subject. I understand that I do not meet the course requirements in the event that my absence exceeds 20% and suitable action in accordance with the prevailing attendance rules may be taken by the management in this regard."
+    },
+    {
+      "document": "SRB 2020.pdf",
+      "snippet": "The candidate has to submit an application for \u2018admission deferment\u2019 in admission department before commencement of that programme stating the reasons for admission deferment. Admission deferment can be approved only for one year. 13.7.2 Who can apply: Serious medical illness."
+    },
+    {
+      "document": "SRB 2018.pdf",
+      "snippet": "The academic break can be granted to any student by respective Dean/Director of School/campus and the maximum period for an academic break is one year only. (in executive programmes as of now it is upto two years). ... Eligibility: Academic break can be granted to any student for any of the following reasons: (i) Serious personal medical reasons involving hospitalization, if required and supported by documents."
+    }
+  ],
+  "confidence_score": 0.95,
+  "retrieved_chunks": [
+    {
+      "chunk_id": 2201,
+      "source_document": "SRB 2021.pdf",
+      "text": "of India. 2.2.11 Students having existing sickness/co-morbidities should take extra precautions. 2.2.12 Avoid physical meetings unless it is essential to convene. 2.2.13 Students should not report to the school if they are unwell or if their family member(s) is/are unwell. 2.2.14 Students should visit the library during the specified slots only which will be communicated in due course. 2.2.15 Students should ensure prior booking of pilot plant and animal house facility.",
+      "score": 0.39007189869880676
+    },
+    {
+      "chunk_id": 5626,
+      "source_document": "2025-26 sem I Lab Manual -Diploma.pdf",
+      "text": "6. Use of cell phones is strictly forbidden. 7. Keep quiet and disciplined, and observe cleanliness in the lab. Coming late for practical class is not allowed. 8.",
+      "score": 0.3566826283931732
+    },
+    {
+      "chunk_id": 6559,
+      "source_document": "2025-26 Sem II Diploma Lab Manual.pdf",
+      "text": "5. Absolutely no eating or drinking in the laboratory at any time. Also no chewing gum, sucking lozenges/Candy is allowed in laboratory. 6. Use of cell phones is strictly forbidden. 7.",
+      "score": 0.3429628014564514
+    },
+    {
+      "chunk_id": 2200,
+      "source_document": "SRB 2021.pdf",
+      "text": "If using soap and water, hands should be scrubbed for at least 40 to 60 seconds. 2.2.9 All students should take care of their own health and check out for symptoms like fever, cough, respiratory illness etc. If unwell, or are having any such symptoms, they should refrain from attending school and they should report to their guide. 2.2.10 If unwell, students should home quarantine themselves as per the guidelines issued by the State Government / Ministry of Health and Family Welfare, Govt. of India. 2.2.11 Students having existing sickness/co-morbidities should take extra precautions.",
+      "score": 0.31326931715011597
+    },
+    {
+      "chunk_id": 1898,
+      "source_document": "SRB 2020.pdf",
+      "text": "__________________Contact person______________________________________ Blood group __________________ Vaccination Details _________________________________________________________ Any medical problem, which you would like to mention to us: ______________________________________________________________________________________________________ Any medication you have been prescribed to take: ______________________________________________________________ 2. School, Place & Duration for which selected from NMIMS Deemed-to-be University: ______________________________________________________________________________________________________ Semester/ Trimester _____________________________________________________________________________________ 110 Sr. Name of the subjects opted for Sr. No. Name of the subjects opted for Exchange No. Exchange Program Program 1 6 2 7 3 8 4 9 5 10 3. Declaration I, _________________________________ student of Full Time _______________ (Program Name) from batch of year __________ and Roll No. ___________ is going for International Student Exchange program in the Semester/Trimester _______.",
+      "score": 0.30399438738822937
+    },
+    {
+      "chunk_id": 4428,
+      "source_document": "SRB 2026.pdf",
+      "text": "Dr. Christine D\u2019Lima Christine.dlima@nmims.edu 022-42355805 Secretary 12. Majilis Legal Centre NGO Representative At Hostels, Mumbai 1. Dr. Tanmoy Chakraborty Chairperson registrar@nmims.edu 022 42355555 2. Shri Harit Chitalia Member harit.chitalia@svkm.ac.in 022 42199999 3. Dr Meena Chintamaneni Member meena.chintamaneni@nmims.edu 022-42355555 4. Prof. Seema Mahajan Member seemam@nmims.edu 022 42355555 5.",
+      "score": 0.2977684438228607
+    },
+    {
+      "chunk_id": 128,
+      "source_document": "Student Code of Conduct for Examinations.pdf",
+      "text": "24. Candidates must adhere to the prescribed time limit for each paper, except for disabled candidates who are allowed additional time as per the permissible provisions. 25. Students are required to use only approved examination booklets and stationery. 26. Candidates must bring their Exam Stationary.",
+      "score": 0.28736501932144165
+    },
+    {
+      "chunk_id": 1242,
+      "source_document": "SRB 2018.pdf",
+      "text": "You will feel better and more capable of helping clear of furniture d others. and other things, e \uf0b7 If the building is badly damaged, you will have to leave it. making movement a Collect water containers, food, and ordinary and special easier. b medicines (for persons with heart complaints, diabetes, etc.). u \uf0b7 Help people who are injured. Provide them first aid.",
+      "score": 0.2834039330482483
+    },
+    {
+      "chunk_id": 1408,
+      "source_document": "SRB 2018.pdf",
+      "text": "___________________________ Email ID ___________________________________________ Medical Insurance details : Insurer ___________________Policy No. __________________Contact person__________________ Blood group __________________ Vaccination Details ________________________________________ Any medical problem, which you would like to mention to us: _________________________________________________________________________________________ Any medication you have been prescribed to take: _________________________________________ 2. School, Place & Duration for which selected from NMIMS Deemed-to-be University: ______________________________________________________________________________________ Semester/ Trimester _____________________________________________________________________ 107 Sr. Name of the subjects opted for Sr. No. Name of the subjects opted for Exchange No. Exchange Program Program 1 6 2 7 3 8 4 9 5 10 3. Declaration I, _________________________________ student of Full Time _______________ (Program Name) from batch of year __________ and Roll No.",
+      "score": 0.28120023012161255
+    },
+    {
+      "chunk_id": 1652,
+      "source_document": "SRB 2020.pdf",
+      "text": "The candidate has to submit an application for \u2018admission deferment\u2019 in admission department before commencement of that programme stating the reasons for admission deferment. Admission deferment can be approved only for one year. 13.7.2 Who can apply: \uf0b7 Serious medical illness. 24 \uf0b7 Serious family related reasons. \uf0b7 Candidate not able to organize funds. \uf0b7 Candidate\u2019s work related commitments, overseas assignments (over 6 months) The application needs to be submitted to admission department, along with all the supporting documents for \u2018Admission Deferment\u2019 consideration.",
+      "score": 0.27904582023620605
+    },
+    {
+      "chunk_id": 1083,
+      "source_document": "SRB 2018.pdf",
+      "text": "They should not leave their seats until answer-books from all students are collected by the Room Supervisor. 6.1.22 A student who disobeys any instructions issued by the Invigilator\u2019s / Room Supervisor or who is guilty of rude 8 or disobedient behaviour is liable for disciplinary action to be taken against him / her by the University. 6.1.23 Students suspected to be guilty of any of the aforesaid acts will be allowed to write their examination only after giving an undertaking in writing that the decision of the University in respect of the reported act of unfair means will be binding on them. 6.2 Guidelines for Appointment and Availing facility of Scribe for the physically disabled (permanent or temporary disability) students during examinations conducted by NMIMS 6.2.1 A student who may have a permanent or temporary physical disability may apply to NMIMS for appointing a scribe for the examinations. 6.2.2 The student should submit an application for the purpose along-with \u2018medical certificate\u2019 from \u2018Registered Medical Practitioner\u2019 to that effect (Annexure 7) with rubber stamp of the Registered Medical Practitioner on the certificate well in advance. 6.2.3 In the following cases of students, the medical certificate of only Government Authorized Agencies would be accepted for Mumbai Campus namely: a) Hearing Impaired Students: Ali Yavar Jung National Institute for the Hearing Handicapped.",
+      "score": 0.2765102684497833
+    },
+    {
+      "chunk_id": 778,
+      "source_document": "SRB 2017.pdf",
+      "text": "12.6 Admission Deferment: The following rules are applicable to all the Schools of NMIMS. 12.6.1 Eligibility : Only those candidates who have paid the full fee or got an approval for part payment can apply for admission deferment. The candidate has to submit an application for \u2018admission deferment\u2019 in admission department before commencement of that programme stating the reasons for admission deferment. Admission deferment can be approved only for one year. 12.6.2 Who can apply : \u25cf Serious medical illness. \u25cf Serious family related reasons.",
+      "score": 0.2762749195098877
+    },
+    {
+      "chunk_id": 3701,
+      "source_document": "SRB 2025.pdf",
+      "text": "Examination for two additional examinations. ** Smuggling in or smuggling out of answer books as Exclusion of the student from concerned University 6 copying material. Examination for three additional examinations. ** Smuggling in of answer books based on the question Exclusion of the student from concerned University 7 paper set at the examination. Examination for four additional examinations. ** Smuggling in written answer book as copying 8 Permanent Expulsion from the University.",
+      "score": 0.2739178240299225
+    },
+    {
+      "chunk_id": 2960,
+      "source_document": "SRB 2023.pdf",
+      "text": "The candidate has to submit an application for \u2018admission deferment\u2019 in admission department before the commencement of that program stating the reasons for admission deferment. Admission deferment can be approved only for one year. 10.6.2 Who can apply: \uf0b7 Serious medical illness. \uf0b7 Serious family related reasons. \uf0b7 The candidate is not able to organize funds. \uf0b7 Candidate\u2019s work related commitments, overseas assignments (over 6 months) 15 The application needs to be submitted to admission department, along with all the supporting documents for \u2018Admission Deferment\u2019 consideration.",
+      "score": 0.2719031572341919
+    },
+    {
+      "chunk_id": 2437,
+      "source_document": "SRB 2022.pdf",
+      "text": "7.1.21 Students will not be allowed to leave the examination hall during the examination and especially during the last ten minutes. They should not leave their seats until answer-books from all students are collected by the Room Supervisor. 7.1.22 A student who disobeys any instructions issued by the Invigilator\u2019s / Room Supervisor or who is guilty of rude or disobedient behaviour is liable for disciplinary action to be taken against him / her by the University. 7.1.23 Students suspected to be guilty of any of the aforesaid acts will be allowed to write their examination only after giving an undertaking in writing that the decision of the University in respect of the reported act of unfair means will be binding on them. 7.2 Guidelines for Appointment and Availing facility of Scribe for the physically challenged (permanent or temporary disability) students during examinations conducted by NMIMS 7.2.1 A student who may have a permanent or temporary physical disability may apply to NMIMS for appointing a scribe for the examinations. 7.2.2 The student should submit an application for the purpose along-with \u2018medical certificate\u2019 from \u2018Registered Medical Practitioner\u2019 to that effect (Annexure 7) with rubber stamp of the Registered Medical Practitioner on the certificate well in advance.",
+      "score": 0.271517813205719
+    },
+    {
+      "chunk_id": 2008,
+      "source_document": "SRB 2021.pdf",
+      "text": "7.1.21 Students will not be allowed to leave the examination hall during the examination and especially during the last ten minutes. They should not leave their seats until answer-books from all students are collected by the Room Supervisor. 7.1.22 A student who disobeys any instructions issued by the Invigilator\u2019s / Room Supervisor or who is guilty of rude or disobedient behaviour is liable for disciplinary action to be taken against him / her by the University. 7.1.23 Students suspected to be guilty of any of the aforesaid acts will be allowed to write their examination only after giving an undertaking in writing that the decision of the University in respect of the reported act of unfair means will be binding on them. 7.2 Guidelines for Appointment and Availing facility of Scribe for the physically challenged (permanent or temporary disability) students during examinations conducted by NMIMS 7.2.1 A student who may have a permanent or temporary physical disability may apply to NMIMS for appointing a scribe for the examinations. 7.2.2 The student should submit an application for the purpose along-with \u2018medical certificate\u2019 from \u2018Registered Medical Practitioner\u2019 to that effect (Annexure 7) with rubber stamp of the Registered Medical Practitioner on the certificate well in advance.",
+      "score": 0.271517813205719
+    },
+    {
+      "chunk_id": 1182,
+      "source_document": "SRB 2018.pdf",
+      "text": "12.4 Academic break : The following rules are applicable for all the school of NMIMS. After commencement of any programme, if a student wants to take a break for certain valid reason, then he can do so as per the following norms \u2013 The academic break can be granted to any student by respective Dean/Director of School/campus and the maximum period for an academic break is one year only. (in executive programmes as of now it is upto two years). This will be based on Dean getting convinced of the reason for academic break. 12.4.1.1.1.1 Eligibility: Academic break can be granted to any student for any of the following reasons: (i) Serious personal medical reasons involving hospitalization, if required and supported by documents. (ii) Serious \u2018family\u2019 related issues.",
+      "score": 0.27123501896858215
+    },
+    {
+      "chunk_id": 9912,
+      "source_document": "Thomas_Calculus.pdf",
+      "text": "b. How long will it take to eradicate the disease, that is, reduce 38. Polonium-210 The half-life of polonium is 139 days, but your the number of cases to less than 1? sample will not be useful to you after 95% of the radioactive 32. Drug concentration An antibiotic is administered intrave- nuclei present on the day the sample arrives has disintegrated. For nously into the bloodstream at a constant rate r. As the drug flows about how many days after the sample arrives will you be able to through the patient\u2019s system and acts on the infection that is pres- use the polonium?",
+      "score": 0.26990780234336853
+    },
+    {
+      "chunk_id": 2199,
+      "source_document": "SRB 2021.pdf",
+      "text": "2.2.4 Maintain social distancing in laboratories and classrooms 2.2.5 Lifts to be used at less than half their capacity to avoid crowding. 2.2.6 All students should ensure that they sanitize their hands after pressing the lift buttons, switches or any other surfaces. 2.2.7 Students should ensure the availability of hand sanitizer with them and sanitize their hands frequently. 2.2.8 Sanitizer should have at least 70% alcohol content and hands should be scrubbed with it for 30 to 40 seconds. If using soap and water, hands should be scrubbed for at least 40 to 60 seconds. 2.2.9 All students should take care of their own health and check out for symptoms like fever, cough, respiratory illness etc.",
+      "score": 0.26896077394485474
+    },
+    {
+      "chunk_id": 2479,
+      "source_document": "SRB 2022.pdf",
+      "text": "The candidate has to submit an application for \u2018admission deferment\u2019 in admission department before commencement of that programme stating the reasons for admission deferment. Admission deferment can be approved only for one year. 10.7.2 Who can apply: \uf0b7 Serious medical illness. \uf0b7 Serious family related reasons. \uf0b7 Candidate not able to organize funds. \uf0b7 Candidate\u2019s work related commitments, overseas assignments (over 6 months) The application needs to be submitted to admission department, along with all the supporting documents for \u2018Admission Deferment\u2019 consideration.",
+      "score": 0.2682229280471802
+    },
+    {
+      "chunk_id": 1465,
+      "source_document": "SRB 2020.pdf",
+      "text": "2.16 NMIMS has zero tolerance policy towards misbehaviour, discrimination of gender sensitivity, indulgence into unethical practices including possession and consumption of drugs, alcoholic drinks, harassment, violence, non-obedience, non- compliance and any action that will bring disrepute to the University etc. by any student. 2.17 University will reserve the rights to take action appropriately. 1 CODE OF CONDUCT LINE OF ACTION Alcohol and Other Drugs The unlawful possession, use, purchase, or distribution of alcohol , illicit a. Suspension from attending college till drugs, controlled substances (including stimulants, depressants, narcotics, pending enquiry. or hallucinogenic drugs), or paraphernalia\u2014or the misuse of prescription drugs, including sharing, procuring, buying, or using in a manner different b. Rustication from the school / campus / from the prescribed use, or by someone other than the person for whom it hostel was prescribed.",
+      "score": 0.2678694725036621
+    },
+    {
+      "chunk_id": 826,
+      "source_document": "SRB 2017.pdf",
+      "text": "corridors in the wires, slopes and walls, Collect water containers, food, and ordinary and special hostel/house clear which are liable to medicines (for persons with heart complaints, diabetes, etc.). of furniture and collapse. \u25cf Help people who are injured. Provide them first aid. Do not other things, C) If you are driving move seriously injured people unless they are in danger. making \u25cf Stop the vehicle away B) If you are outside movement easier.",
+      "score": 0.2665631175041199
+    },
+    {
+      "chunk_id": 203,
+      "source_document": "Student Leave Application.pdf",
+      "text": "4. 5. I hereby declare that the reasons stated above are genuine to the best of my knowledge. I undertake to maintain at least 80% attendance in each subject for the Semester. I understand that all Leave must remain within a maximum of 20% for each subject. I understand that I do not meet the course requirements in the event that my absence exceeds 20% and suitable action in accordance with the prevailing attendance rules may be taken by the management in this regard.",
+      "score": 0.2655012011528015
+    },
+    {
+      "chunk_id": 965,
+      "source_document": "SRB 2017.pdf",
+      "text": "__________________Contact person__________________ Blood group __________________ Vaccination Details ________________________________________ Any medical problem, which you would like to mention to us: _________________________________________________________________________________________ Any medication you have been prescribed to take: _________________________________________ 99 2. School, Place & Duration for which selected from NMIMS Deemed-to-be University: ______________________________________________________________________________________ Semester/ Trimester _____________________________________________________________________ Sr. Name of the subjects opted for Sr. No. Name of the subjects opted for Exchange No. Exchange Program Program 1 6 2 7 3 8 4 9 5 10 3. Declaration I, _________________________________ student of Full Time _______________ (Program Name) from batch of year __________ and Roll No. ___________ is going for International Student Exchange program in the Semester/Trimester _______.",
+      "score": 0.2654414772987366
+    },
+    {
+      "chunk_id": 3206,
+      "source_document": "SRB 2024.pdf",
+      "text": "They should not leave their seats until answer-books from all students are collected by the Room Supervisor. 7.1.22 A student who disobeys any instructions issued by the Invigilator\u2019s / Room Supervisor or who is guilty of rude or disobedient behaviour is liable for disciplinary action to be taken against him / her by the University. 7.1.23 Students suspected to be guilty of any of the aforesaid acts will be allowed to write their examination only after giving an undertaking in writing that the decision of the University in respect of the reported act of unfair means will be binding on them. 7.2 Guidelines for Appointment and Availing facility of Scribe for the physically challenged (permanent or temporary disability) students during examinations conducted by NMIMS 7.2.1 A student who may have a permanent or temporary physical disability may apply to NMIMS for appointing a scribe for the examinations. 7.2.2 The student should submit an application for the purpose along-with \u2018medical certificate\u2019 from \u2018Registered Medical Practitioner\u2019 to that effect (Annexure 7) with rubber stamp of the Registered Medical Practitioner on the certificate well in advance. 7.3 In the following cases of students, the medical certificate of only Government Authorized Agencies would be accepted for Mumbai Campus namely: a) Hearing Impaired Students: Ali Yavar Jung National Institute for the Hearing Handicapped.",
+      "score": 0.2637183368206024
+    }
+  ]
+}

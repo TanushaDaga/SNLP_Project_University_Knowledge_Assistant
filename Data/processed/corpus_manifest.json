@@ -1,0 +1,1024 @@
+{
+ "n_chunks": 2175,
+ "n_documents": 111,
+ "documents": [
+  {
+   "doc_path": "Academic Calendar/Academic Calendar - All Programs_Second Year to Six Year_AY 2026-27.pdf",
+   "status": "ok",
+   "chunks": 3,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Academic Calendar/Academic Calendar - MPSTME - Internship - 2026-27.pdf",
+   "status": "ok",
+   "chunks": 2,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Attendance Rules/Attendance Rules from 2025-26 for all students.pdf",
+   "status": "ok",
+   "chunks": 3,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Capstone Guidelines/Guidlines_Capstone Project_BTechMBA Tech_24-25 -22.7.25.pdf",
+   "status": "ok",
+   "chunks": 74,
+   "methods": [
+    "ocr",
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Community Service Guidelines/Community Service_ Guidelines_2023-24.pdf",
+   "status": "ok",
+   "chunks": 56,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Department_wise_Objective/Computer_Engineering_Department_.docx",
+   "status": "ok",
+   "chunks": 5,
+   "methods": [
+    "docx"
+   ]
+  },
+  {
+   "doc_path": "Department_wise_Objective/Electronic_and_Telecommunication_Department_.docx",
+   "status": "ok",
+   "chunks": 4,
+   "methods": [
+    "docx"
+   ]
+  },
+  {
+   "doc_path": "Department_wise_Objective/information_Technology_Dept_.docx",
+   "status": "ok",
+   "chunks": 3,
+   "methods": [
+    "docx"
+   ]
+  },
+  {
+   "doc_path": "Department_wise_Objective/Mechanical_engg_department_-PEOS_.docx",
+   "status": "ok",
+   "chunks": 5,
+   "methods": [
+    "docx"
+   ]
+  },
+  {
+   "doc_path": "DIPLOMA/Academic Calendar - All Programs_First year_ AY 2026-27.pdf",
+   "status": "ok",
+   "chunks": 2,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "DIPLOMA/Diploma Student Guidebook 2026.pdf",
+   "status": "ok",
+   "chunks": 10,
+   "methods": [
+    "ocr",
+    "text"
+   ]
+  },
+  {
+   "doc_path": "DIPLOMA/FIRST YEAR/Course Policy/course policy-Applied Physics II-2025-26.pdf",
+   "status": "ok",
+   "chunks": 25,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "DIPLOMA/FIRST YEAR/Course Policy/Course Policy_IOOP_SemII_DiplomaMech_AY25-26_Bhavna.pdf",
+   "status": "ok",
+   "chunks": 43,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "DIPLOMA/FIRST YEAR/Course Policy/CP_Diploma_Sem II_Mathematics II_2025-26.pdf",
+   "status": "ok",
+   "chunks": 39,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "DIPLOMA/FIRST YEAR/Course Policy/CP_EM - Deploma in Engg.  2025-26.pdf",
+   "status": "ok",
+   "chunks": 37,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "DIPLOMA/FIRST YEAR/Course Policy/CP_SLS_2025-26_PP.docx",
+   "status": "ok",
+   "chunks": 23,
+   "methods": [
+    "docx"
+   ]
+  },
+  {
+   "doc_path": "DIPLOMA/FIRST YEAR/Course Policy/IEEE_Lab - Sem_II_Diploma_CP_AY_2025-26.docx",
+   "status": "ok",
+   "chunks": 36,
+   "methods": [
+    "docx"
+   ]
+  },
+  {
+   "doc_path": "DIPLOMA/FIRST YEAR/Course Policy/IEEE_Sem_II_Diploma_CP_AY_2025-26.docx",
+   "status": "ok",
+   "chunks": 59,
+   "methods": [
+    "docx"
+   ]
+  },
+  {
+   "doc_path": "DIPLOMA/FIRST YEAR/Course Policy/WD Course Policy_Diploma Sem II.pdf",
+   "status": "ok",
+   "chunks": 27,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "DIPLOMA/FIRST YEAR/Diploma Student Guidebook 2026.pdf",
+   "status": "ok",
+   "chunks": 10,
+   "methods": [
+    "ocr",
+    "text"
+   ]
+  },
+  {
+   "doc_path": "DIPLOMA/Update_Register_Sign_In_Methods_Guide.docx",
+   "status": "ok",
+   "chunks": 9,
+   "methods": [
+    "docx"
+   ]
+  },
+  {
+   "doc_path": "Examination Guidelines/GR_Update_AY_2025_26.pdf",
+   "status": "ok",
+   "chunks": 9,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Examination Guidelines/Impact of UFM.pdf",
+   "status": "ok",
+   "chunks": 6,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Examination Guidelines/Notice - ID card.pdf",
+   "status": "ok",
+   "chunks": 1,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Examination Guidelines/Student Code of Conduct for Examinations.pdf",
+   "status": "ok",
+   "chunks": 22,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Examination Guidelines/UFM_offence penalty_AY_2025-26.pdf",
+   "status": "ok",
+   "chunks": 20,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Examination Guidelines/University Examination Student Instructions.pdf",
+   "status": "ok",
+   "chunks": 9,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "General Guidelines/FAQ_s_.docx",
+   "status": "ok",
+   "chunks": 10,
+   "methods": [
+    "docx"
+   ]
+  },
+  {
+   "doc_path": "General Guidelines/Important Instructions.docx",
+   "status": "ok",
+   "chunks": 1,
+   "methods": [
+    "docx"
+   ]
+  },
+  {
+   "doc_path": "General Guidelines/Library_at_Glances_08_April_2026_T7P4ZFIqdT.docx",
+   "status": "ok",
+   "chunks": 4,
+   "methods": [
+    "docx"
+   ]
+  },
+  {
+   "doc_path": "General Guidelines/MPSTME CC Studio revised guidelines.pdf",
+   "status": "ok",
+   "chunks": 14,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "General Guidelines/September_9_2026_N5oyaRQfr6.pdf",
+   "status": "ok",
+   "chunks": 181,
+   "methods": [
+    "ocr",
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Holiday List/Holiday list 2026.pdf",
+   "status": "ok",
+   "chunks": 6,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Important Forms/Bonafide format.pdf",
+   "status": "ok",
+   "chunks": 1,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Important Forms/MPSTME Attendance Defaulter Undertaking .pdf",
+   "status": "ok",
+   "chunks": 2,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Important Forms/Student Leave Application.pdf",
+   "status": "ok",
+   "chunks": 3,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "IPT Guidelines/BTI IPT Guidelines Batch 2023.pdf",
+   "status": "ok",
+   "chunks": 7,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "IPT Guidelines/IPT- Guidelines & Undertaking - Sem VIII.pdf",
+   "status": "ok",
+   "chunks": 7,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 1/1. Operations and Supply Chain Management.pdf",
+   "status": "ok",
+   "chunks": 9,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 1/2. Smart Cities.pdf",
+   "status": "ok",
+   "chunks": 8,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 1/3. Disaster Management.pdf",
+   "status": "ok",
+   "chunks": 5,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 1/4. Introduction to Virtual Reality and Augmented Reality.pdf",
+   "status": "ok",
+   "chunks": 8,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 1/5. Drone Technology.pdf",
+   "status": "ok",
+   "chunks": 7,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 1/7. Science, Technology and Society 2025-26.pdf",
+   "status": "ok",
+   "chunks": 8,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 1/8. 3D Printing.pdf",
+   "status": "ok",
+   "chunks": 8,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 1/9. Renewable Energy Sources.pdf",
+   "status": "ok",
+   "chunks": 10,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 2/1.Elements of Project Management.pdf",
+   "status": "ok",
+   "chunks": 7,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 2/2. Financial Derivates.pdf",
+   "status": "ok",
+   "chunks": 7,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 2/3. Management through Movies.pdf",
+   "status": "ok",
+   "chunks": 9,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 2/4. Environment Management  2025-26.pdf",
+   "status": "ok",
+   "chunks": 5,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 2/5. Leading through life skills.pdf",
+   "status": "ok",
+   "chunks": 9,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 2/6.Research Methodology.pdf",
+   "status": "ok",
+   "chunks": 6,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 2/7. Production Management.pdf",
+   "status": "ok",
+   "chunks": 8,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 2/8. Introduction to Forensic science 2025-26.pdf",
+   "status": "ok",
+   "chunks": 19,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 2/9. Waste Management.pdf",
+   "status": "ok",
+   "chunks": 6,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/3D Printing.pdf",
+   "status": "ok",
+   "chunks": 8,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Basic Decision Making with Spreadsheet.pdf",
+   "status": "ok",
+   "chunks": 7,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Data Analytics.pdf",
+   "status": "ok",
+   "chunks": 13,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Disaster Management.pdf",
+   "status": "ok",
+   "chunks": 5,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Drone Technology.pdf",
+   "status": "ok",
+   "chunks": 7,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Elements of Automation.pdf",
+   "status": "ok",
+   "chunks": 8,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Fundamentals of Climate Change.pdf",
+   "status": "ok",
+   "chunks": 7,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Interior Design.pdf",
+   "status": "ok",
+   "chunks": 4,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Introduction to GIS.pdf",
+   "status": "ok",
+   "chunks": 8,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Introduction to Virtual Reality and Augmented Reality.pdf",
+   "status": "ok",
+   "chunks": 8,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Renewable Energy Sources.pdf",
+   "status": "ok",
+   "chunks": 10,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Research Methodology.pdf",
+   "status": "ok",
+   "chunks": 6,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Robotic Process Automation.pdf",
+   "status": "ok",
+   "chunks": 5,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Smart Cities.pdf",
+   "status": "ok",
+   "chunks": 8,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Supervisory Control and Data Acquisition.pdf",
+   "status": "ok",
+   "chunks": 6,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 3/Sustainable Energy Technologies 2025-26.pdf",
+   "status": "ok",
+   "chunks": 5,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Actuarial Science 2025-26.pdf",
+   "status": "ok",
+   "chunks": 6,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Advertising and Public Relations.pdf",
+   "status": "ok",
+   "chunks": 5,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Creativity and ethics in Marketing.pdf",
+   "status": "ok",
+   "chunks": 6,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Elements of Project Management.pdf",
+   "status": "ok",
+   "chunks": 7,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Environment Management  2025-26.pdf",
+   "status": "ok",
+   "chunks": 5,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Financial Derivates.pdf",
+   "status": "ok",
+   "chunks": 7,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Financial Institutions, Markets, Instruments and Services.pdf",
+   "status": "ok",
+   "chunks": 7,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Introduction to Forensic science 2025-26.pdf",
+   "status": "ok",
+   "chunks": 19,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Leading through life skills.pdf",
+   "status": "ok",
+   "chunks": 9,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Management through Movies.pdf",
+   "status": "ok",
+   "chunks": 9,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Modelling and Simulation 2025-26.pdf",
+   "status": "ok",
+   "chunks": 8,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Nuclear and Plasma Technology 2025-26.pdf",
+   "status": "ok",
+   "chunks": 13,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Operations and Supply Chain Management.pdf",
+   "status": "ok",
+   "chunks": 9,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Production Management.pdf",
+   "status": "ok",
+   "chunks": 8,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Quantum Computing and Technologies 2025-26.pdf",
+   "status": "ok",
+   "chunks": 7,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Science, Technology and Society 2025-26.pdf",
+   "status": "ok",
+   "chunks": 8,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Technology & Innovation for Marketing.pdf",
+   "status": "ok",
+   "chunks": 9,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 4/Waste Management.pdf",
+   "status": "ok",
+   "chunks": 6,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Contemporary Short Fiction-Syllabus 2026-27.pdf",
+   "status": "ok",
+   "chunks": 15,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Film Appreciation 2026-27.pdf",
+   "status": "ok",
+   "chunks": 11,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Gender communication 2026-27.pdf",
+   "status": "ok",
+   "chunks": 10,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/German 2026-27.pdf",
+   "status": "ok",
+   "chunks": 16,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Happiness at Work 2026-27.pdf",
+   "status": "ok",
+   "chunks": 11,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Indian Knowledge System 2026-27.pdf",
+   "status": "ok",
+   "chunks": 27,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Introduction to Linguistics new 2026-27.pdf",
+   "status": "ok",
+   "chunks": 11,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Japanese A1 2026-27.pdf",
+   "status": "ok",
+   "chunks": 17,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Leading through life skills.pdf",
+   "status": "ok",
+   "chunks": 9,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Literature A-La-Carte new 2026-27.pdf",
+   "status": "ok",
+   "chunks": 19,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Management through Movies.pdf",
+   "status": "ok",
+   "chunks": 9,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Nutrition for Health 2026-27.pdf",
+   "status": "ok",
+   "chunks": 12,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Syllabus_Journalism and Mass Media.pdf",
+   "status": "ok",
+   "chunks": 4,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Technical Writing 2026-27.pdf",
+   "status": "ok",
+   "chunks": 3,
+   "methods": [
+    "ocr",
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/Turning Data into Stories new 2026-27.pdf",
+   "status": "ok",
+   "chunks": 7,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE 5/UHV- II 2026-27.pdf",
+   "status": "ok",
+   "chunks": 14,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OE5 Semester VII B Tech- MBA Tech Catalogue 2025-26.pdf",
+   "status": "ok",
+   "chunks": 28,
+   "methods": [
+    "ocr",
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/Open Elective Student.pdf",
+   "status": "ok",
+   "chunks": 4,
+   "methods": [
+    "ocr",
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Open Elective/OPEN ELECTIVES I and IIBTI.pdf",
+   "status": "ok",
+   "chunks": 3,
+   "methods": [
+    "text"
+   ]
+  },
+  {
+   "doc_path": "Placement Policy/Final Placement Policy - Batch 2027.pdf",
+   "status": "ok",
+   "chunks": 39,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Placement Policy/Internship Policy_Batch 27.pdf",
+   "status": "ok",
+   "chunks": 16,
+   "methods": [
+    "ocr"
+   ]
+  },
+  {
+   "doc_path": "Student Resource Book/SRB 2026.pdf",
+   "status": "ok",
+   "chunks": 710,
+   "methods": [
+    "ocr",
+    "text"
+   ]
+  }
+ ],
+ "skipped": {
+  "DIPLOMA/FIRST YEAR/Course Policy/course policy-Applied Physics II-2025-26.docx": "duplicate of a PDF",
+  "DIPLOMA/FIRST YEAR/Course Policy/CP_Diploma_Sem II_Mathematics II_2025-26.docx": "duplicate of a PDF",
+  "DIPLOMA/FIRST YEAR/Course Policy/CP_EM - Deploma in Engg.  2025-26.docx": "duplicate of a PDF",
+  "DIPLOMA/FIRST YEAR/Course Policy/WD Course Policy_Diploma Sem II.docx": "duplicate of a PDF",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/2025-26 Sem II Diploma Lab Manual.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/compiled_practice_questions_AY 2025-26.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Lab course activity/Lab course mini project instruction sheet.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/M2 practice questions.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/PPTs/Ch-1-waves & oscillations-ppt.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/PPTs/Ch-2 Mechanical properties of solids.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/PPTs/Ch-3-properties of liquids.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/PPTs/Ch-3-properties of liquids.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/PPTs/Unit 1-QB.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/PPTs/unit 4-electricity and magnetism.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/PPTs/Unit 4-questions.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Textbook-pdfs/keph201-mechanical properties of solids.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Textbook-pdfs/keph202- Ch-3-mechanical properties of fluids.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Textbook-pdfs/keph206-Oscillations.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Textbook-pdfs/keph207-waves.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Textbook-pdfs/leph101-electric charges and fields.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Textbook-pdfs/leph102-electrostatic potential.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Textbook-pdfs/leph103-current electricity.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Textbook-pdfs/leph105-magnetism and matter.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Tutorials/Tutorial -3-Properties of liquids.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Tutorials/Tutorial 1-waves & oscillations.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Tutorials/Tutorial 2-Mechanical Properties of solids.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Tutorials/tutorial 2A- practice sums mechanical properties.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Tutorials/tutorial 2B- practice sums mechanical properties.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Tutorials/Tutorial 3 A viscosity and surface tension.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Tutorials/Tutorial 4-unit 4.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Applied Physics II/Tutorials/Unit 1-extra practice sums.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Engineering Mechanics/Tutorial.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Engineering Mechanics/Tutorial.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Engineering Mechanics/Unit 1A  PPT JVA (1).pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/books for extra practice/basic-electrical-engineering-ravish singh.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/diode_zener.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/Extracted from AC Fundamentals (5) (1).docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/Extracted from AC Fundamentals (5) (1).pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/Op-amp.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/pn junction.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/Three phase.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/tutorials/Tut 1.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/tutorials/Tut 2.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/tutorials/Tut 3.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/tutorials/Tut 4.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/tutorials/Tut 5.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/Types of Basic Logic Gates.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/Unit-3 Transformers and Motors (2) (1)(1).docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/Unit-3 Transformers and Motors (2) (1).docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Introduction to Electrical and Electronics Engineering/Unit-3 Transformers and Motors (2) (1).pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Mathematics-II_Syllabus.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Thomas_Calculus.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 1/Classwork Problems _Permutations and Combinations.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 1/Formula Sheet_Permuations and Combinations.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 1/Tutorial Problems _Permutations and Combinations.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 1/Tutorial Problems _Permutations and Combinations.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 2/Classwork problems_Binomial Theorem.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 2/Tutorial problems_Binomial Theorem.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 3/Classroom Problems_Coordinate Geometry.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 3/Formula sheet_Coordinate Geometry.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 3/Tutorial Problems_Coordinate Geometry.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 3/Tutorial Problems_Coordinate Geometry.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 4/Classwork Problems_Limits.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 4/Formula sheet_Limits.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 4/Tutorial Problems_Limits.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 5/Classwork Problems_Continuity.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material Sem II/Mathematics II/Unit 5/Tutorial Problems_Continuity.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Chemistry/Syllabus & Course  Policy/Diploma Applied Chem syllabus.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Applied Physics I  Questions AY 2025-26.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/circular motion ctivity/circular motion notes.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/circular motion ctivity/Div A Activity groups.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/circular motion ctivity/Div B Activity groups.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/circular motion ctivity/Instructions_Group_Activity_Circular_Motion.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Lab Applied Physics I/2025-26 sem I Lab Manual -Diploma.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Lab Applied Physics I/Applied Physics-I Lab.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Lab Applied Physics I/Olabs activity/intructions-activity.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Lab Applied Physics I/Olabs activity/OLABS activity template.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/presentations/Theory Questions M 2 .pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/presentations/Theory Questions M 2_(1).docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/presentations/Theory Questions M 2_.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/presentations/unit 1-units and measurements ppt.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/presentations/unit 2-revised-complete.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/presentations/unit 3_work energy & Power.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/presentations/unit 4-thermal properties-M2 portion.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/text book/keph 203.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/text book/keph101.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/text book/keph104.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/text book/keph104.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/text book/keph105.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/text book/keph203.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/text book/unit_1_diplomabook.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Tutorials/Turtorial 1-order of magnitude and significant figures.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Tutorials/Tutorial 2- Dimensional analysis.pdf.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Tutorials/Tutorial 2- Dimensional analysis.pdf.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Tutorials/Tutorial 3 Error Calculations - diploma A.Y-2025-26.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Tutorials/tutorial 4 Newtons laws of motion.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Tutorials/Tutorial 5 Conservation of Momentum.docx": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Tutorials/Tutorial 5 Conservation of Momentum.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Tutorials/Tutorial 6 Work Energy and Power.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Applied Physics I/Tutorials/Tutorial 7 Heat and Thermodynamics.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Communication Skills/5_Cs_to_Writing_a_Lit_Review.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Communication Skills/Diploma_RM & WS_PPT.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Communication Skills/Edgar Allan Poe_s the_tell-tale_heart_0.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Mathematics-I/Unit1_Algebra formula sheet.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Mathematics-I/Unit2_Sets formula sheet.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Mathematics-I/Unit3_Functions formula sheet.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Mathematics-I/Unit_1_ algebra ClassWork_Problems.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Mathematics-I/Unit_2_SetsClassWork_Problems.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Mathematics-I/Unit_3_Functions ClassWork_Problems.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Mathematics-I/Unit_4_ClassWork_Problems.pdf": "study material (not policy)",
+  "DIPLOMA/FIRST YEAR/Study Material-Sem I/Mathematics-I/Unit_5_ClassWork_Problems.pdf": "study material (not policy)",
+  "Student Resource Book/SRB 2016.pdf": "superseded Student Resource Book edition (latest is 2026)",
+  "Student Resource Book/SRB 2017.pdf": "superseded Student Resource Book edition (latest is 2026)",
+  "Student Resource Book/SRB 2018.pdf": "superseded Student Resource Book edition (latest is 2026)",
+  "Student Resource Book/SRB 2020.pdf": "superseded Student Resource Book edition (latest is 2026)",
+  "Student Resource Book/SRB 2021.pdf": "superseded Student Resource Book edition (latest is 2026)",
+  "Student Resource Book/SRB 2022.pdf": "superseded Student Resource Book edition (latest is 2026)",
+  "Student Resource Book/SRB 2023.pdf": "superseded Student Resource Book edition (latest is 2026)",
+  "Student Resource Book/SRB 2024.pdf": "superseded Student Resource Book edition (latest is 2026)",
+  "Student Resource Book/SRB 2025.pdf": "superseded Student Resource Book edition (latest is 2026)"
+ }
+}

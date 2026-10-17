@@ -1,0 +1,39 @@
+SVKM's NMIMS Deemed-to-be University
+Mukesh Patel School of Technology Management and Engineering
+Simulation and Optimization
+Use of spreadsheets to implement Monte Carlo simulations and linear programs
+5.
+for optimization; model uncertainty and risk in spreadsheets; and use of Excel's
+06
+solver What-if analysis, Inventory simulation, Waiting Line simulation, Simulation
+with two Quality Inspectors, other simulation issues.
+Time Series Analysis
+6.
+Forecasting Time Series Patterns, Moving Averages and Exponential Smoothing,
+03
+Linear Trend Projection, Seasonality.
+Total
+Text Books
+1. David Anderson, Dennis J. Sweeney, Thomas Arthur Williams, Introduction to Management Science:
+Quantitative Approaches to Decision Making, 15th Edition, CENGAGE Learning Custom Publishing,
+2018.
+2. Cliff Ragsdale, Spreadsheet Modeling and Decision Analysis: A Introduction to Business Analytics, 8th
+Edition, Cengage Learning India Pvt. Ltd., 2018.
+Reference Books
+1. Elliot Bendoly Excel Basics to Blackbelt: An Accelerated Guide to Decision Support Designs, 2nd
+Edition, Cambridge University Press, 2013.
+2. Cliff Ragsdale, Spreadsheet Modeling and Decision Analysis: A Practical Introduction to Business
+Analytics, 8th Edition, South-Western College Publishing, 2014.
+3.
+Hillier and Hillier, Introduction to Management Science: A Modeling and Case Studies Approach with
+Spreadsheets, 5th Edition, McGraw-Hill/Irwin, 2019.
+Laboratory Work
+8 to 10 programming exercises (and a practicum) based on the syllabus
+atel
+SVKM'S
+NMIMS
+Mumbai
+56
+Signature
+(Head of the Department)
+B Tech & MBA Tech DS/ Semester - V / AY 2025-26 /Page 22

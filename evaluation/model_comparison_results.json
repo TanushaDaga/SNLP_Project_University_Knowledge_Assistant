@@ -1,0 +1,758 @@
+{
+  "n_queries": 23,
+  "with_llm": false,
+  "BM25_Baseline": {
+    "HitRate@1": 0.34782608695652173,
+    "HitRate@3": 0.6086956521739131,
+    "MRR@3": 0.44927536231884063,
+    "Precision@3": 0.3768115942028985,
+    "Recall@3": 0.6086956521739131,
+    "Avg_Retrieval_Latency_ms": 5.153365757154382,
+    "Median_Retrieval_Latency_ms": 4.708528518676758
+  },
+  "Dense_V1": {
+    "HitRate@1": 0.391304347826087,
+    "HitRate@3": 0.5217391304347826,
+    "MRR@3": 0.45652173913043476,
+    "Precision@3": 0.391304347826087,
+    "Recall@3": 0.5217391304347826,
+    "Avg_Retrieval_Latency_ms": 13.883860214896824,
+    "Median_Retrieval_Latency_ms": 8.849143981933594
+  },
+  "Improved_Hybrid": {
+    "HitRate@1": 0.43478260869565216,
+    "HitRate@3": 0.6086956521739131,
+    "MRR@3": 0.5217391304347826,
+    "Precision@3": 0.4057971014492754,
+    "Recall@3": 0.6086956521739131,
+    "Avg_Retrieval_Latency_ms": 529.0857294331427,
+    "Median_Retrieval_Latency_ms": 559.2508316040039
+  },
+  "first_15_handwritten_queries_only": {
+    "BM25_Baseline": {
+      "HitRate@1": 0.4,
+      "HitRate@3": 0.8,
+      "MRR@3": 0.5555555555555556,
+      "Precision@3": 0.4888888888888889,
+      "Recall@3": 0.8,
+      "Avg_Retrieval_Latency_ms": 4.211028416951497,
+      "Median_Retrieval_Latency_ms": 4.088163375854492
+    },
+    "Dense_V1": {
+      "HitRate@1": 0.5333333333333333,
+      "HitRate@3": 0.7333333333333333,
+      "MRR@3": 0.6333333333333333,
+      "Precision@3": 0.5555555555555556,
+      "Recall@3": 0.7333333333333333,
+      "Avg_Retrieval_Latency_ms": 15.566237767537435,
+      "Median_Retrieval_Latency_ms": 8.607625961303711
+    },
+    "Improved_Hybrid": {
+      "HitRate@1": 0.5333333333333333,
+      "HitRate@3": 0.7333333333333333,
+      "MRR@3": 0.6333333333333333,
+      "Precision@3": 0.5111111111111111,
+      "Recall@3": 0.7333333333333333,
+      "Avg_Retrieval_Latency_ms": 496.1580117543538,
+      "Median_Retrieval_Latency_ms": 502.32863426208496
+    }
+  },
+  "per_query": {
+    "BM25": [
+      {
+        "query": "What is the penalty for using unfair means during an exam?",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 3.8309097290039062
+      },
+      {
+        "query": "What are the rules and formatting guidelines for the capstone project report?",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 4.306316375732422
+      },
+      {
+        "query": "What is the eligibility criteria to participate in the final placement drive?",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 5.016326904296875
+      },
+      {
+        "query": "What items are strictly prohibited inside the examination hall?",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 5.235195159912109
+      },
+      {
+        "query": "When does the academic year start for first-year students?",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 5.266904830932617
+      },
+      {
+        "query": "How many days of holiday are given for Diwali in 2026?",
+        "hit_at_1": false,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 0.3333333333333333,
+        "retrieval_latency_ms": 4.225015640258789
+      },
+      {
+        "query": "What are the timings and rules for using the CC Studio?",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 4.959583282470703
+      },
+      {
+        "query": "What is the process to apply for a bonafide certificate?",
+        "hit_at_1": true,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 4.088163375854492
+      },
+      {
+        "query": "What is the minimum attendance required to be eligible for exams?",
+        "hit_at_1": false,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 0.5,
+        "retrieval_latency_ms": 4.2705535888671875
+      },
+      {
+        "query": "How many leaves are permitted for medical reasons?",
+        "hit_at_1": false,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 0.3333333333333333,
+        "retrieval_latency_ms": 3.310680389404297
+      },
+      {
+        "query": "Which NGOs are approved for the community service program?",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 3.899097442626953
+      },
+      {
+        "query": "What is the minimum number of hours required for community service?",
+        "hit_at_1": false,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 0.3333333333333333,
+        "retrieval_latency_ms": 4.078865051269531
+      },
+      {
+        "query": "Can a student reject an offer received during campus placements?",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 4.087686538696289
+      },
+      {
+        "query": "Who is eligible to register for a capstone project?",
+        "hit_at_1": false,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 0.5,
+        "retrieval_latency_ms": 3.449678421020508
+      },
+      {
+        "query": "What are the guidelines for mandatory internships?",
+        "hit_at_1": false,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 0.3333333333333333,
+        "retrieval_latency_ms": 3.1404495239257812
+      },
+      {
+        "query": "Please provide information regarding: School of Technology Management and Engineering Technology Management Department Program : B Tech /",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 4.708528518676758
+      },
+      {
+        "query": "Please provide information regarding: dents of the B Tech, MBA Tech, and B Tech (Integrated) programmes will be offered five open elective",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 8.550405502319336
+      },
+      {
+        "query": "Please provide information regarding: es Mukesh Patel School of Technology Management & Engineering Program: B. Tech (all program)/ MBA Te",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 8.124351501464844
+      },
+      {
+        "query": "Please provide information regarding: School of Technology Management & Engineering Program: B Tech (All program except CSBS, Semester: V",
+        "hit_at_1": true,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 5.300283432006836
+      },
+      {
+        "query": "Please provide information regarding: agement and Engineering Technology Management Department Program : B Tech / MBA Tech (All Program) S",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 7.342338562011719
+      },
+      {
+        "query": "Please provide information regarding: ineering Program: B Tech and MBA Tech programs except B Tech CSBS Semester: V/VI and B Tech CSE (DS)",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 8.688926696777344
+      },
+      {
+        "query": "Please provide information regarding: y Management and Engineering Program: B Tech, BTI and MBA Tech programs except B Semester: V/VI/X/XI",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 6.185293197631836
+      },
+      {
+        "query": "Please provide information regarding: es Mukesh Patel School of Technology Management and Engineering Program: B Tech and MBA Tech program",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 6.461858749389648
+      }
+    ],
+    "Dense": [
+      {
+        "query": "What is the penalty for using unfair means during an exam?",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 104.04849052429199,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What are the rules and formatting guidelines for the capstone project report?",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 9.464025497436523,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What is the eligibility criteria to participate in the final placement drive?",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 9.194135665893555,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What items are strictly prohibited inside the examination hall?",
+        "hit_at_1": true,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 20.892620086669922,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "When does the academic year start for first-year students?",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 8.849143981933594,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "How many days of holiday are given for Diwali in 2026?",
+        "hit_at_1": true,
+        "precision_3": 0.6666666666666666,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 8.123159408569336,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What are the timings and rules for using the CC Studio?",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 10.326385498046875,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What is the process to apply for a bonafide certificate?",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 8.803129196166992,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What is the minimum attendance required to be eligible for exams?",
+        "hit_at_1": true,
+        "precision_3": 0.6666666666666666,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 8.121013641357422,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "How many leaves are permitted for medical reasons?",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 8.607625961303711,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Which NGOs are approved for the community service program?",
+        "hit_at_1": false,
+        "precision_3": 0.6666666666666666,
+        "hit_at_3": true,
+        "mrr_3": 0.5,
+        "retrieval_latency_ms": 8.450508117675781,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What is the minimum number of hours required for community service?",
+        "hit_at_1": true,
+        "precision_3": 0.6666666666666666,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 7.304191589355469,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Can a student reject an offer received during campus placements?",
+        "hit_at_1": false,
+        "precision_3": 0.6666666666666666,
+        "hit_at_3": true,
+        "mrr_3": 0.5,
+        "retrieval_latency_ms": 6.594419479370117,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Who is eligible to register for a capstone project?",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 6.913185119628906,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What are the guidelines for mandatory internships?",
+        "hit_at_1": false,
+        "precision_3": 0.6666666666666666,
+        "hit_at_3": true,
+        "mrr_3": 0.5,
+        "retrieval_latency_ms": 7.801532745361328,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: School of Technology Management and Engineering Technology Management Department Program : B Tech /",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 8.007287979125977,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: dents of the B Tech, MBA Tech, and B Tech (Integrated) programmes will be offered five open elective",
+        "hit_at_1": true,
+        "precision_3": 0.6666666666666666,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 11.622428894042969,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: es Mukesh Patel School of Technology Management & Engineering Program: B. Tech (all program)/ MBA Te",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 13.944149017333984,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: School of Technology Management & Engineering Program: B Tech (All program except CSBS, Semester: V",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 7.625818252563477,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: agement and Engineering Technology Management Department Program : B Tech / MBA Tech (All Program) S",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 10.376930236816406,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: ineering Program: B Tech and MBA Tech programs except B Tech CSBS Semester: V/VI and B Tech CSE (DS)",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 12.000083923339844,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: y Management and Engineering Program: B Tech, BTI and MBA Tech programs except B Semester: V/VI/X/XI",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 12.037515640258789,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: es Mukesh Patel School of Technology Management and Engineering Program: B Tech and MBA Tech program",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 10.221004486083984,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      }
+    ],
+    "Hybrid": [
+      {
+        "query": "What is the penalty for using unfair means during an exam?",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 516.7407989501953,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What are the rules and formatting guidelines for the capstone project report?",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 559.2508316040039,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What is the eligibility criteria to participate in the final placement drive?",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 437.27684020996094,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What items are strictly prohibited inside the examination hall?",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 557.2166442871094,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "When does the academic year start for first-year students?",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 567.4920082092285,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "How many days of holiday are given for Diwali in 2026?",
+        "hit_at_1": false,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 0.5,
+        "retrieval_latency_ms": 582.2610855102539,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What are the timings and rules for using the CC Studio?",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 502.32863426208496,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What is the process to apply for a bonafide certificate?",
+        "hit_at_1": true,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 598.2751846313477,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What is the minimum attendance required to be eligible for exams?",
+        "hit_at_1": true,
+        "precision_3": 0.6666666666666666,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 458.48679542541504,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "How many leaves are permitted for medical reasons?",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 837.928056716919,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Which NGOs are approved for the community service program?",
+        "hit_at_1": true,
+        "precision_3": 0.6666666666666666,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 286.6523265838623,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What is the minimum number of hours required for community service?",
+        "hit_at_1": false,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 0.5,
+        "retrieval_latency_ms": 367.51627922058105,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Can a student reject an offer received during campus placements?",
+        "hit_at_1": false,
+        "precision_3": 0.6666666666666666,
+        "hit_at_3": true,
+        "mrr_3": 0.5,
+        "retrieval_latency_ms": 485.562801361084,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Who is eligible to register for a capstone project?",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 392.9140567779541,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "What are the guidelines for mandatory internships?",
+        "hit_at_1": true,
+        "precision_3": 0.6666666666666666,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 292.4678325653076,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: School of Technology Management and Engineering Technology Management Department Program : B Tech /",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 583.1851959228516,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: dents of the B Tech, MBA Tech, and B Tech (Integrated) programmes will be offered five open elective",
+        "hit_at_1": true,
+        "precision_3": 1.0,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 610.3439331054688,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: es Mukesh Patel School of Technology Management & Engineering Program: B. Tech (all program)/ MBA Te",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 629.4081211090088,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: School of Technology Management & Engineering Program: B Tech (All program except CSBS, Semester: V",
+        "hit_at_1": false,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 0.5,
+        "retrieval_latency_ms": 447.6616382598877,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: agement and Engineering Technology Management Department Program : B Tech / MBA Tech (All Program) S",
+        "hit_at_1": true,
+        "precision_3": 0.3333333333333333,
+        "hit_at_3": true,
+        "mrr_3": 1.0,
+        "retrieval_latency_ms": 580.5106163024902,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: ineering Program: B Tech and MBA Tech programs except B Tech CSBS Semester: V/VI and B Tech CSE (DS)",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 607.9602241516113,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: y Management and Engineering Program: B Tech, BTI and MBA Tech programs except B Semester: V/VI/X/XI",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 669.0499782562256,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      },
+      {
+        "query": "Please provide information regarding: es Mukesh Patel School of Technology Management and Engineering Program: B Tech and MBA Tech program",
+        "hit_at_1": false,
+        "precision_3": 0.0,
+        "hit_at_3": false,
+        "mrr_3": 0.0,
+        "retrieval_latency_ms": 598.4818935394287,
+        "e2e_latency_ms": null,
+        "citation_match": false,
+        "is_fallback": false
+      }
+    ]
+  }
+}

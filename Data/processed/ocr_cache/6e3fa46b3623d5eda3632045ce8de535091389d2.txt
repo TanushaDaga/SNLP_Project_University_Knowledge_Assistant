@@ -1,0 +1,36 @@
+SVKM's Narsee Monjee Institute of Management Studies
+Mukesh Patel School of Technology Management and Engineering
+4.
+Master Equations and Advanced Topics
+Quantum Noise and Examples, Operator sum representation, Distance
+measures inQuantumoperations, MasterEquations
+12
+QuantumErrorcorrections
+Quantum information theory - Entropies, compression and entanglement.
+QuantumCryptography
+5.
+Physical Realizations of Quantum Computers
+Guiding principles, conditions of quantum computation, Harmonic oscillator
+05
+quantum computer, optical photon quantum computer, Ion traps, NMR, Other
+schemes.
+Total
+45
+Text Books
+1.
+Bernhardt, Chris, Quantum computing for everyone, MIT Press, 2020.
+Nielsen, M., & Chuang, I, Quantum Computation and Quantum Information,1Oth Anniversary
+Edition, Cambridge University Press, 2016.
+ReferenceBooks
+1.
+McMahon, David, Quantum computing explained, John Wiley & Sons, 2007.
+2.
+Rieffel, E.G., Polak, W.H, Quantum Computing: A Gentle Introduction, Ist Edition, MIT Press,
+2011
+3.
+Qiskittextbookhttps://qiskit.org/textbook/preface.html
+Signature
+Signature
+(HeadoftheDepartment)
+(Dean)
+AY 2025 - 26

@@ -1,0 +1,82 @@
+[
+  {
+    "query_id": "H_A01",
+    "query": "If I miss a lecture because of a family emergency, how soon should I give the leave form?",
+    "is_answerable": true
+  },
+  {
+    "query_id": "H_A02",
+    "query": "Is there any penalty for not signing the placement attendance sheet in time?",
+    "is_answerable": true
+  },
+  {
+    "query_id": "H_A03",
+    "query": "What should I wear to guest lectures and seminars organised by the school?",
+    "is_answerable": true
+  },
+  {
+    "query_id": "H_A04",
+    "query": "How many marks is the community service evaluation out of?",
+    "is_answerable": true
+  },
+  {
+    "query_id": "H_A05",
+    "query": "Is it fine to talk to the company HR directly during interviews?",
+    "is_answerable": true
+  },
+  {
+    "query_id": "H_A06",
+    "query": "What is the passing rule for students who fail two subjects in a year?",
+    "is_answerable": true
+  },
+  {
+    "query_id": "H_A07",
+    "query": "My exam paper got marks I did not expect. Can I ask for a recheck?",
+    "is_answerable": true
+  },
+  {
+    "query_id": "H_A08",
+    "query": "Is the college open on Republic Day for lectures?",
+    "is_answerable": true
+  },
+  {
+    "query_id": "H_A09",
+    "query": "How should the capstone report be bound?",
+    "is_answerable": true
+  },
+  {
+    "query_id": "H_A10",
+    "query": "Can I choose my own NGO for community service?",
+    "is_answerable": true
+  },
+  {
+    "query_id": "H_U01",
+    "query": "How much is the bus pass to the college from Thane?",
+    "is_answerable": false
+  },
+  {
+    "query_id": "H_U02",
+    "query": "Can students keep bikes in the basement overnight?",
+    "is_answerable": false
+  },
+  {
+    "query_id": "H_U03",
+    "query": "Will the college sponsor my higher studies abroad?",
+    "is_answerable": false
+  },
+  {
+    "query_id": "H_U04",
+    "query": "What time does the gym close on Sundays?",
+    "is_answerable": false
+  },
+  {
+    "query_id": "H_U05",
+    "query": "Is there an alumni discount on the canteen food?",
+    "is_answerable": false
+  },
+  {
+    "query_id": "H_U06",
+    "query": "How can I apply for a patent through the college?",
+    "is_answerable": false
+  }
+]

@@ -1,0 +1,38 @@
+# ───────────── secrets (NEVER commit) ─────────────
+.env
+.env.*
+!.env.example
+*.key
+
+# ───────────── Python ─────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+build/
+dist/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ───────────── raw university documents (1.3 GB: PDFs, videos, slides - over GitHub's size limits) ─────────────
+Data/Raw/*
+!Data/Raw/README.md
+
+# ───────────── large / superseded artefacts ─────────────
+Data/processed_legacy_week4/
+Data/cache/llm_cache.backup_*.json
+
+# ───────────── OS / editor ─────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+.vscode/
+.idea/
+*.log
+
+# Kept on purpose (small, needed to run the project without re-OCR / re-embedding):
+#   Data/processed/corpus.json, corpus_manifest.json, dense_index.faiss, calibration*.json, ocr_cache/
+#   Data/cache/llm_cache.json  (stored LLM answers; contains no keys)

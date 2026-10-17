@@ -1,0 +1,146 @@
+{
+  "n": 16,
+  "threshold": 0.35,
+  "per_query": [
+    {
+      "query_id": "H_A01",
+      "query": "If I miss a lecture because of a family emergency, how soon should I give the leave form?",
+      "is_answerable": true,
+      "top_logit": -5.534963607788086,
+      "initial_gate": 0.031381483874503575,
+      "refitted_gate": 0.18480369360786264
+    },
+    {
+      "query_id": "H_A02",
+      "query": "Is there any penalty for not signing the placement attendance sheet in time?",
+      "is_answerable": true,
+      "top_logit": 3.3268046379089355,
+      "initial_gate": 0.9639782067396657,
+      "refitted_gate": 0.9264543311788631
+    },
+    {
+      "query_id": "H_A03",
+      "query": "What should I wear to guest lectures and seminars organised by the school?",
+      "is_answerable": true,
+      "top_logit": 3.9712390899658203,
+      "initial_gate": 0.9775855633561922,
+      "refitted_gate": 0.9440447116572303
+    },
+    {
+      "query_id": "H_A04",
+      "query": "How many marks is the community service evaluation out of?",
+      "is_answerable": true,
+      "top_logit": 5.950329780578613,
+      "initial_gate": 0.9949100898670193,
+      "refitted_gate": 0.9764055381214622
+    },
+    {
+      "query_id": "H_A05",
+      "query": "Is it fine to talk to the company HR directly during interviews?",
+      "is_answerable": true,
+      "top_logit": -0.14342118799686432,
+      "initial_gate": 0.6585315926310342,
+      "refitted_gate": 0.7231594639217429
+    },
+    {
+      "query_id": "H_A06",
+      "query": "What is the passing rule for students who fail two subjects in a year?",
+      "is_answerable": true,
+      "top_logit": 3.487338066101074,
+      "initial_gate": 0.9679727743069447,
+      "refitted_gate": 0.9312619708287381
+    },
+    {
+      "query_id": "H_A07",
+      "query": "My exam paper got marks I did not expect. Can I ask for a recheck?",
+      "is_answerable": true,
+      "top_logit": -4.5786662101745605,
+      "initial_gate": 0.0626879737160442,
+      "refitted_gate": 0.2591126903873757
+    },
+    {
+      "query_id": "H_A08",
+      "query": "Is the college open on Republic Day for lectures?",
+      "is_answerable": true,
+      "top_logit": 1.486770749092102,
+      "initial_gate": 0.8690207653747309,
+      "refitted_gate": 0.8454375282087397
+    },
+    {
+      "query_id": "H_A09",
+      "query": "How should the capstone report be bound?",
+      "is_answerable": true,
+      "top_logit": 0.4786049425601959,
+      "initial_gate": 0.755508301403445,
+      "refitted_gate": 0.7759452272726131
+    },
+    {
+      "query_id": "H_A10",
+      "query": "Can I choose my own NGO for community service?",
+      "is_answerable": true,
+      "top_logit": -2.437822103500366,
+      "initial_gate": 0.25308286731691154,
+      "refitted_gate": 0.4800088797667318
+    },
+    {
+      "query_id": "H_U01",
+      "query": "How much is the bus pass to the college from Thane?",
+      "is_answerable": false,
+      "top_logit": -8.185208320617676,
+      "initial_gate": 0.004327829111627976,
+      "refitted_gate": 0.06382507228090882
+    },
+    {
+      "query_id": "H_U02",
+      "query": "Can students keep bikes in the basement overnight?",
+      "is_answerable": false,
+      "top_logit": -7.603578567504883,
+      "initial_gate": 0.006709374718008636,
+      "refitted_gate": 0.08151285584765544
+    },
+    {
+      "query_id": "H_U03",
+      "query": "Will the college sponsor my higher studies abroad?",
+      "is_answerable": false,
+      "top_logit": -4.0600457191467285,
+      "initial_gate": 0.09015295828327126,
+      "refitted_gate": 0.3067277120636213
+    },
+    {
+      "query_id": "H_U04",
+      "query": "What time does the gym close on Sundays?",
+      "is_answerable": false,
+      "top_logit": -6.256022930145264,
+      "initial_gate": 0.018412071416169875,
+      "refitted_gate": 0.14051295888719909
+    },
+    {
+      "query_id": "H_U05",
+      "query": "Is there an alumni discount on the canteen food?",
+      "is_answerable": false,
+      "top_logit": -4.151461124420166,
+      "initial_gate": 0.08462878805035606,
+      "refitted_gate": 0.2979860245937822
+    },
+    {
+      "query_id": "H_U06",
+      "query": "How can I apply for a patent through the college?",
+      "is_answerable": false,
+      "top_logit": -4.870166301727295,
+      "initial_gate": 0.050893626257475365,
+      "refitted_gate": 0.23455977493615682
+    }
+  ],
+  "initial_gate": {
+    "answerable_accepted": 7,
+    "n_answerable": 10,
+    "unanswerable_accepted": 0,
+    "n_unanswerable": 6
+  },
+  "refitted_gate": {
+    "answerable_accepted": 8,
+    "n_answerable": 10,
+    "unanswerable_accepted": 0,
+    "n_unanswerable": 6
+  }
+}

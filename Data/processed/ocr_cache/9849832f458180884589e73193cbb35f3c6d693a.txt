@@ -1,0 +1,50 @@
+AY 2025-26
+SVKM's NMIMSDeemed-to-be University
+Mukesh Patel School of Technology Management and Engineering
+3.
+Theory of interest rates
+Interest rates expressed in different time periods, time value of money, present value
+05
+and accumulated value for a given stream of cash flows
+4.
+Equation of value and its applications
+Define an equation of value, use the concept of equation of value to solve various
+05
+practical problems, discounted cash flow and equation of value techniques
+5.
+Single and Multiple decrement models
+Types of assurance and annuity contracts, operation of conventional with-profits
+contracts, operation of accumulating with-profits contracts, means and variances of the
+06
+payments under various assurance and annuity contracts, assurance and annuity
+functions involving two lives, methods of valuing cash flows that are contingent upon
+multipletransitionevents
+6.
+Pricing and reserving
+Gross random future loss under an insurance contract, principle of equivalence, gross
+premiums and reserves of assurance and annuity contracts, single policy or a portfolio
+13
+of policies, expected future cash flows for whole life, endowment and term assurances,
+annuities, unit-linked contracts and conventional/unitised with-profits contracts,
+incorporating multiple decrement models
+Total
+45
+Text Books
+1. K.C. Mishra, C.S.Kumar, Elements of Actuarial Science by National Insurance Academy,1st edition,
+Cengage Learning,2009
+2.Broverman,S.A.,Mathematics of Investment and Credit,6th edition,ACTEXPublications.,2015
+Reference Books
+1.Ruckman, C.; and Francis, J,Financial Mathematics:APractical Guide for Actuaries and other Business
+Professionals,2nd edition, BPP Professional Education,2005
+2. Hassett Donald Matthew J., Stewart, Probability for Risk Management, 2nd edition, ACTEX
+Publications,2006
+3.
+Chan, Wai-Sum, and Tse, Yiu-Kuen, Financial Mathematics for Actuaries, 3rd edition McGraw-Hill
+Education (Asia), 2013
+4.Daniel, J.W., and Vaaler, L.J.F., Mathematical Interest Theory,2nd edition, The Mathematical
+AssociationofAmerica,2009
+Ae
+Signature
+Signature
+(Prepared by Concerned Faculty/HOD)
+(Approved by Dean)

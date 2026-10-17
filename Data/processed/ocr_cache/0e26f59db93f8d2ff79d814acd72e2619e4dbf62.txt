@@ -1,0 +1,77 @@
+SVKM's NMIMS Deemed-to-be University
+Mukesh Patel School of Technology Management and Engineering
+Program: : B Tech programs and BTI DS except B Tech CSBS and
+Semester: V/ VI/ IX / X
+CSE (DS) and MBA Tech all programs
+Course: Basic Decision making with Spreadsheet
+Code: 702DB01002
+Teaching Scheme
+Evaluation Scheme
+Practical
+Lecture
+Tutorial
+Internal Continuous
+Term End
+(Hours per
+(Hours per
+(Hours per
+Credit
+Assessment (ICA)
+Examinations (TEE)
+week)
+week)
+week)
+(Marks - 50)
+(Marks - 100)
+Marks Scaled to 50
+Marks Scaled to 50
+Pre-requisite: Nil
+Course Objective
+The aim of the course is to provides comprehensive instruction using spreadsheet software as a
+various models influencing variables from period to period and evaluate data patterns to solve possible
+outcomes of an uncertain event.
+Course Outcomes
+After completion of the course, students will be able to -
+1. Solve managerial decision problems using spreadsheet techniques
+2. Analyze the basic decision models, linear regression models, linear and nonlinear optimization
+models, and simulation models
+ Predict forecasting using popular for the pre-processing of time series techniques
+Detailed Syllabus
+Description
+Unit
+Duration
+Introduction
+Introduction to spreadsheets; historical development; basic capabilities of
+spreadsheets and their usage for creating models; types of data used in
+1.
+05
+spreadsheets; spreadsheet notations for mathematical operations; common built-
+in formulas and functions; conditional expressions; relative and absolute
+references.
+Addressing Uncertainty and Probability
+Random variables and probability distributions, Changes in discrete and
+05
+continuous time, Power, exponential, and log functions, Probability trees and
+decision trees, Correlation and Regression., Simulation and Optimization
+Model building
+Designing spreadsheets reflecting assumptions; decision variables; and
+3.
+outcomes, creating basic cash-flow models; revaluating small business
+06
+opportunities; incorporating what-if analysis; identifying key variables using
+sensitivity analysis; linear programming models and deterministic models.
+Optimization with Spreadsheets using Solver
+Linear programming,
+sensitivity analysis, transportation and assignment problems, network
+4.
+05
+optimization problems, integer and nonlinear programming, multi-objective
+optimization, applications of optimization in different areas.
+Datel
+SVKMS
+NMIMS
+Mumbai
+56
+Signature
+(Head of the Department)
+B Tech & MBA Tech DS/ Semester - V / AY 2025-26 /Page 21

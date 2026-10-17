@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "knowledge-assistant"
+version = "1.0.0"
+description = "University Knowledge Assistant - grounded hybrid-RAG SDK and REST API (SNLP Group 4)"
+requires-python = ">=3.10"
+dependencies = [
+  "rank-bm25", "sentence-transformers", "faiss-cpu", "nltk", "numpy", "python-dotenv", "groq",
+]
+
+[project.optional-dependencies]
+api = ["fastapi>=0.100", "uvicorn[standard]", "pydantic>=2"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["knowledge_assistant*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-m 'not live_llm'"
+markers = ["live_llm: calls the real Groq API (uses free-tier quota); deselect with -m 'not live_llm'"]

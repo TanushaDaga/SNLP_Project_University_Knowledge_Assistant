@@ -1,0 +1,67 @@
+SVKM's Narsee Monjee Institute of Management Studies
+Mukesh Patel School of Technology Management and Engineering
+Program: B Tech (All Program except CSBS, CSDS) /MBA
+Semester:V/VI/VII/IX/X
+Tech (All Program) /BTI (All Program)
+Course : Quantum Computing and Technologies
+Code:
+Teaching Scheme
+Evaluation Scheme
+Lecture
+Practical
+Tutorial
+Internal Continuous
+Term End
+(Hours
+(Hours
+(Hours per
+Credit
+Assessment (ICA)
+Examinations (TEE)
+per week)
+per week)
+week)
+(Marks - 50)
+(Marks-100)
+Marks Scaled to 50
+Marks Scaled to 50
+Pre-requisite: Fundamentals of Quantum Physics, Linear Algebra
+Course Objective
+This course aims at providing adequate exposure and training to the theories and applications of
+Quantum technologies. This course will help the students acquire the required skills for
+implementing and understanding future quantum technologies, like quantum computers, quantum
+sensors and quantum algorithms. This course will aid in independent thinking, giving them scope
+of contribution in applying quantum theories in engineering applications.
+Course Outcomes
+After completion of the course, the student will be able to-
+1. Recall the fundamentals of Quantum mechanics and Linear Aigebra
+2. Identify and explain various applications of quantum mechanics in engineering domains
+3. Experiment with various tools like IBM-Quantum and Python to build Quantum algorithms
+and evaluate industry-relevant experimental quantities through theoretical knowledge
+4.Design example solutions for quantum applications relevant to the industry
+Detailed Syllabus
+Unit
+Description
+Duration
+1.
+Linear Algebra and Quantum Mechanics
+Linear Algebra-vectors, bases, Adjoint and Hermitian operators, Eigenvalues
+and eigenvectors. Tensor Products, Commutation. Related theorems.
+Quantum Mechanics - State Evolution, EPR and Bells inequality.
+10
+Qubits, Bloch Sphere, Bell States, Quantum teleportation
+Experimental quantum information processing
+Introduction to computer science
+2.
+Measurement Theory
+Density matrices, Trace and partial trace, Quantum Measurements, Projective
+and POVM Measurements, Composite systems, superdense coding,
+10
+Schmidt Decomposition and purification
+3.
+Quantum Circuits
+Quantum Algorithms, Single Qubit operations, Quantum Gates, Quantum
+Fourier transform
+08
+Quantum Parallelism, Quantum Algorithms - Search, Deutsch- Jozsa, Shor's.
+AY 2025 - 26

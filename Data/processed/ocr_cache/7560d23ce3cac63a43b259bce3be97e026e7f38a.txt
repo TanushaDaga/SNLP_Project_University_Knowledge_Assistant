@@ -1,0 +1,228 @@
+THETIMESOFINDIAMUMBI
+WEDNESDAYSEPTEMBER9,2026
+What it takes to
+find a $78,000
+bug bounty
+Akhil.George
+pendentresearcherin Meta's
+@timesofindia.com
+bug bounty programme, he
+has reached the company's
+henRonyKRoy
+top Diamond League three
+spotteda security
+times. His conclusion is dif.
+flaw in Meta's
+ferent today.
+systems earlier
+"While luck can play a
+this year, he did not think he
+role, thebest researchers cre-
+had founda jackpot.
+ate their own opportunities
+The independent security
+by developing a deep under.
+researcher, who is based out
+standing of the system they
+of Kerala,was testing Meta
+are testing."
+Horizon Managed Solutions,
+a service that organisations
+LEARNTHESYSTEM
+use to manage Meta Quest
+Complex platforms are
+devices. He noticed that an
+wherethebiggestopportuni-
+administrator who did not
+ties lie. Meta Business Suite,
+have access to Meta's Support
+forinstance,bringstogether
+Centre could nevertheless ac-
+businesses, accounts, Pages,
+cess the organisation's sup-
+Instagram assets and users,
+port requests.
+with different roles deter.
+It looked like a fairly rou-
+mining what each person is
+tine permissions problem-
+allowed to do. The more sys.
+the kind of vulnerability in
+tems and permissions inter-
+which a user can access
+act, the more opportunities
+somethingthey shouldnotbe
+there are for those rules to
+ableto see.
+be implemented incorrectly.
+Roy's initial estimate of
+"The permissions as.
+its value? Be-
+signed to
+tween $500
+each role
+INSPIRATION
+and s1,000.
+across differ-
+Instead,
+ent tools are
+Meta eventu-
+clearly docu-
+ally paid him $78,000afterhis
+mented and publicly avail.
+investigation revealed that
+able,"Roy said.Thejob then
+theproblemextendedacross
+becomes finding the gap
+multiple support channels
+betweenwhatthe system
+and could haveexposed sensi-
+says a user can do and what
+tive customer support infor-
+the system actually lets
+mation.The company fixed
+them do.
+the vulnerabilities by April,
+Roy has previously found
+withnoevidence of exploita-
+a zero-click Page takeover
+tion reported.
+vulnerability in Meta Busi-
+Thedifference betweena
+ness Suite, reinforcing his
+relativelyordinarybuganda
+view that complex products
+$78,000 discovery,however,
+withmultiplepermission
+wasnotastroke
+systemscan offerricher
+of luck.It was
+huntinggroundthan heav-
+what Roy did
+ilyprotected coreservices.
+after finding
+Another lesson Roy wish-
+the firstflaw.
+es he had learnt earlier is to
+Researchersfinding
+vulnerabilities with Al today
+arenotpeoplewhohaveno
+understanding of bug
+bounty. They're
+experienced researchers
+whoalreadyknow how
+to hunt for vulnerabilities
+and understand how to make Alwork
+for them.Ithink that will become even
+more important as Al gets better.The
+advantage will go to the researcher
+whoknowswhatquestionstoask,can
+providetherightcontext,can
+recognise something interesting when
+it appears,and can direct theAl
+toward theparts of the system that
+actually matter.
+ROnyKROyIINDEPENDENTSECURITYRESEARCHER
+DON'TSTOPWHEN
+return to old vulnerabilities.
+YOUFINDABUG
+Many researchers, he
+Roy'sfirst lesson for aspiring
+says, move on as soon as a
+security researchers:finding
+company confirms thata bug
+avulnerabilityshould bethe
+has been fixed. He does the
+beginning of an investiga-
+opposite. He revisits the vul.
+tion, not the end.
+nerabilities after a company
+Afterreportingthe initial
+fixes them.
+problem to Meta, he contin.
+Trying to bypass a fix or
+ued testing.He discovered
+applying the same underly-
+that administrators could
+ing logic to another part of
+access support requests be-
+a product can uncover re-
+longing to other organisa-
+lated weaknesses.
+tions-amuchmore serious
+"Developers can some-
+failurebecause it crossedthe
+times fix the immediate
+boundaries separating dif-
+symptomwithoutaddressing
+ferent customers.
+the underlying root cause,
+Then he noticed some-
+whichcanleaverelatedattack
+thing else. One of the API
+paths open," he said.
+requests he was examining
+That approach requires
+containeda Salesforce-relat-
+researchers to understand
+ed name.Otherrequestsas-
+why a vulnerability existed
+sociated with Meta's Sup.
+inthefirstplacerather than
+port Centre appeared to
+simplymemorising howto
+point towards the same un-
+reproduce it.
+derlying infrastructure.
+That raised a new ques-
+AND WHAT ABOUT AI?
+tion: if several support fea-
+Interestingly,Roydidnotuse
+tures relied on the same
+AI at allto find the Meta vul-
+systems,could the same
+nerability “The entire pro-
+authorisation mistake ex-
+cess was done manually, the
+ist elsewhere?
+old school way" he said.
+Roy tested Meta's email
+He believes an AI agent
+support, chat support and
+could potentially have
+other channels.Hefoundfur-
+discovered the initial au-
+ther vulnerabilities.
+thorisation flaw if given
+"The important part
+the right environment
+wasn'tjustfindingthebugit
+and context.But the more
+was connecting thedots and
+valuable part of the inves-
+asking,"Whereelsecould this
+tigation - recognising
+same authorisation issue ex-
+that the flaw might extend
+ist?" he said.
+to other systems and fol-
+That mindset, he believes,
+lowing the clues into Me-
+is moreimportantthan sim-
+ta's wider support infra-
+ply running more tests.
+structure - required hu-
+"When I first started bug
+hunting,I thought it was
+man judgement.
+mostlyaboutluck-searching
+As AI becomes better at
+finding vulnerabilities, Roy
+enoughplacesandeventually
+expects the best researchers
+getting iucky enough to find
+to use it as a force multiplier
+a bug," Roy said.
+rather than a replacement
+After 8.5 years as an inde-
+for expertise.
