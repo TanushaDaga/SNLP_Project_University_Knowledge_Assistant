@@ -40,12 +40,4 @@ tests/test_verification.py automated checks      docs/   reports + API.md      e
 Data/Raw/…                 source documents       Data/processed_legacy_week4/  the old (Week 4) index, kept for reference
 ```
 
-## Proving the LLM is really used
-`python scripts/verify_llm_live.py` (about 3 calls) - random-word test, style test and Groq's own request counters. In every API response `generation_mode` is `llm` (live), `llm_cached` (identical prompt answered before), `extractive` (no LLM) or `none` (refused), and `llm_tokens` is the token count billed by Groq. Send `"use_cache": false` to force a live call. Answer length adapts to the question (`ANSWER_STYLE=adaptive`: short question -> one or two sentences, "explain ..." -> structured Markdown; `detailed` = always structured); the benchmark in the Week 5 report used `ANSWER_STYLE=concise`.
-
-## Free-tier LLM policy
-The Groq key is read from `.env` only to answer questions through this pipeline. Calls are spaced, 429-retried with
-`Retry-After`, capped at ~1.7k tokens each and **cached on disk** (`Data/cache/llm_cache.json`); `pytest` never calls the API
-(`USE_LLM=0`), `/api/v1/search` never calls it, and `--no-llm` runs the full evaluation without it.
-
 See `docs/` for the Week 5 evaluation & error analysis, the Week 6 asset-engineering report and the API reference.
